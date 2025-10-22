@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<RiepilogoMisure data_aggiornamento="2025-10-22 14:37:02">
+<RiepilogoMisure data_aggiornamento="2025-10-22 14:44:36">
   <Misura filename="SPC_T14_A1_0.5um_20K_01.tif">
     <DataMisurazione>2025-10-07 15:14:46</DataMisurazione>
     <gradino_um>0.4601</gradino_um>
@@ -1424,6 +1424,70 @@
       <PolimeroSuParete>N</PolimeroSuParete>
       <RideposizioneFondo>N</RideposizioneFondo>
       <Note>valutare se avviene la sincronizzazione git</Note>
+    </Annotazioni>
+  </Misura>
+  <Misura filename="SPC_T14_A1_0.5um_60K_01.tif" id_misura="37">
+    <DataMisurazione>2025-10-22 14:44:36</DataMisurazione>
+    <scale_factor>0.00135851</scale_factor>
+    <MisurazioniGeometriche>
+      <Gradino>0.5685263654699206</Gradino>
+      <Angolo>107.1220387822055</Angolo>
+      <Faceting>0.09645377990028654</Faceting>
+      <TrinceaLarghezza>0.00029673806247264</TrinceaLarghezza>
+      <MicroTrenchSinistro>None</MicroTrenchSinistro>
+      <MicroTrenchDestro>None</MicroTrenchDestro>
+      <DeltaX_P4>2.0428688492987073</DeltaX_P4>
+      <DeltaY_P4>0.5685263654699206</DeltaY_P4>
+      <TrinceaLarghezzaPX>0.21842906012663876</TrinceaLarghezzaPX>
+    </MisurazioniGeometriche>
+    <CoordinateSolidali>
+      <P1>
+        <X_UM>0.0</X_UM>
+        <Y_UM>0.0</Y_UM>
+        <X_PX>0.0</X_PX>
+        <Y_PX>0.0</Y_PX>
+      </P1>
+      <P2>
+        <X_UM>3.184361639411601</X_UM>
+        <Y_UM>-1.2065992649468172e-18</Y_UM>
+        <X_PX>2344.010452195126</X_PX>
+        <Y_PX>-8.881784197001252e-16</Y_PX>
+      </P2>
+      <P3>
+        <X_UM>2.1641170648447794</X_UM>
+        <Y_UM>-0.00032977335458385355</Y_UM>
+        <X_PX>1593.0078283154185</X_PX>
+        <Y_PX>-0.24274635783605092</Y_PX>
+      </P3>
+      <P4>
+        <X_UM>2.0428688492987073</X_UM>
+        <Y_UM>0.5685263654699206</Y_UM>
+        <X_PX>1503.756946433009</X_PX>
+        <Y_PX>418.4925878130603</Y_PX>
+      </P4>
+      <P5>
+        <X_UM>2.260570844745066</X_UM>
+        <Y_UM>-4.1728790035215224e-05</Y_UM>
+        <X_PX>1664.0075117187696</X_PX>
+        <Y_PX>-0.030716586580308736</Y_PX>
+      </P5>
+      <P6>
+        <X_UM>1.7171652108763447</X_UM>
+        <Y_UM>-0.0003060111269249106</Y_UM>
+        <X_PX>1264.006309027055</X_PX>
+        <Y_PX>-0.22525496825559665</Y_PX>
+      </P6>
+      <P7>
+        <X_UM>2.2714388762831264</X_UM>
+        <Y_UM>-9.273064452270585e-06</Y_UM>
+        <X_PX>1672.0074760459079</X_PX>
+        <Y_PX>-0.0068259081289578916</Y_PX>
+      </P7>
+    </CoordinateSolidali>
+    <Annotazioni>
+      <PolimeroSuParete>N</PolimeroSuParete>
+      <RideposizioneFondo>N</RideposizioneFondo>
+      <Note>questa versione di ingrandimento non permette di vedere bene gli spigoli, ma forse meglio l'angolo e il faceting</Note>
     </Annotazioni>
   </Misura>
 </RiepilogoMisure>
