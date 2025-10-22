@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<RiepilogoMisure data_aggiornamento="2025-10-22 14:44:36">
+<RiepilogoMisure data_aggiornamento="2025-10-22 16:26:38">
   <Misura filename="SPC_T14_A1_0.5um_20K_01.tif">
     <DataMisurazione>2025-10-07 15:14:46</DataMisurazione>
     <gradino_um>0.4601</gradino_um>
@@ -1488,6 +1488,57 @@
       <PolimeroSuParete>N</PolimeroSuParete>
       <RideposizioneFondo>N</RideposizioneFondo>
       <Note>questa versione di ingrandimento non permette di vedere bene gli spigoli, ma forse meglio l'angolo e il faceting</Note>
+    </Annotazioni>
+  </Misura>
+  <Misura filename="SPC_T14_A1_0.5um_20K_01.tif" id_misura="38">
+    <DataMisurazione>2025-10-22 16:26:38</DataMisurazione>
+    <scale_factor>0.00407552</scale_factor>
+    <MisurazioniGeometriche>
+      <Gradino>0.8871830210736458</Gradino>
+      <Angolo>109.00156438492247</Angolo>
+      <Faceting>0.13455351236057814</Faceting>
+      <TrinceaLarghezza>None</TrinceaLarghezza>
+      <MicroTrenchSinistro>None</MicroTrenchSinistro>
+      <MicroTrenchDestro>None</MicroTrenchDestro>
+      <DeltaX_P4>2.2788020428500326</DeltaX_P4>
+      <DeltaY_P4>0.8871830210736458</DeltaY_P4>
+    </MisurazioniGeometriche>
+    <CoordinateSolidali>
+      <P1>
+        <X_UM>0.0</X_UM>
+        <Y_UM>0.0</Y_UM>
+        <X_PX>0.0</X_PX>
+        <Y_PX>0.0</Y_PX>
+      </P1>
+      <P2>
+        <X_UM>3.359536447421452</X_UM>
+        <Y_UM>0.0</Y_UM>
+        <X_PX>824.3209326469879</X_PX>
+        <Y_PX>0.0</Y_PX>
+      </P2>
+      <P3>
+        <X_UM>2.462588841122301</X_UM>
+        <Y_UM>-0.0005735148790676858</Y_UM>
+        <X_PX>604.2391746629389</X_PX>
+        <Y_PX>-0.14072189047475803</Y_PX>
+      </P3>
+      <P4>
+        <X_UM>2.2788020428500326</X_UM>
+        <Y_UM>0.8871830210736458</Y_UM>
+        <X_PX>559.1438743645062</X_PX>
+        <Y_PX>217.68584648674175</Y_PX>
+      </P4>
+      <P5>
+        <X_UM>2.597142353482879</X_UM>
+        <Y_UM>-0.0008948809750969943</Y_UM>
+        <X_PX>637.2542285359608</X_PX>
+        <Y_PX>-0.21957467393044183</Y_PX>
+      </P5>
+    </CoordinateSolidali>
+    <Annotazioni>
+      <PolimeroSuParete>N</PolimeroSuParete>
+      <RideposizioneFondo>N</RideposizioneFondo>
+      <Note>n</Note>
     </Annotazioni>
   </Misura>
 </RiepilogoMisure>
