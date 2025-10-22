@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<RiepilogoMisure data_aggiornamento="2025-10-22 16:45:36">
+<RiepilogoMisure data_aggiornamento="2025-10-22 16:47:39">
   <Misura filename="SPC_T14_A1_0.5um_20K_01.tif">
     <DataMisurazione>2025-10-07 15:14:46</DataMisurazione>
     <gradino_um>0.4601</gradino_um>
@@ -1783,6 +1783,70 @@
       <PolimeroSuParete>D</PolimeroSuParete>
       <RideposizioneFondo>D</RideposizioneFondo>
       <Note>d</Note>
+    </Annotazioni>
+  </Misura>
+  <Misura filename="SPC_T14_A1_0.5um_20K_01.tif" id_misura="42">
+    <DataMisurazione>2025-10-22 16:47:39</DataMisurazione>
+    <scale_factor>0.00407552</scale_factor>
+    <MisurazioniGeometriche>
+      <Gradino>0.9802618690429327</Gradino>
+      <Angolo>96.11440424109621</Angolo>
+      <Faceting>0.3708916978306099</Faceting>
+      <TrinceaLarghezza>0.0017664424342013851</TrinceaLarghezza>
+      <MicroTrenchSinistro>None</MicroTrenchSinistro>
+      <MicroTrenchDestro>None</MicroTrenchDestro>
+      <DeltaX_P4>1.2202969105102284</DeltaX_P4>
+      <DeltaY_P4>0.9802618690429327</DeltaY_P4>
+      <TrinceaLarghezzaPX>0.43342749739944475</TrinceaLarghezzaPX>
+    </MisurazioniGeometriche>
+    <CoordinateSolidali>
+      <P1>
+        <X_UM>0.0</X_UM>
+        <Y_UM>0.0</Y_UM>
+        <X_PX>0.0</X_PX>
+        <Y_PX>0.0</Y_PX>
+      </P1>
+      <P2>
+        <X_UM>1.8994065788154024</X_UM>
+        <Y_UM>3.6197889130562544e-18</Y_UM>
+        <X_PX>466.0525721418132</X_PX>
+        <Y_PX>8.881784197001252e-16</Y_PX>
+      </P2>
+      <P3>
+        <X_UM>1.255424629610164</X_UM>
+        <Y_UM>-0.0015215890274803974</Y_UM>
+        <X_PX>308.0403554908733</X_PX>
+        <Y_PX>-0.37334843835397624</Y_PX>
+      </P3>
+      <P4>
+        <X_UM>1.2202969105102284</X_UM>
+        <Y_UM>0.9802618690429327</Y_UM>
+        <X_PX>299.4211561985289</X_PX>
+        <Y_PX>240.52436720784897</Y_PX>
+      </P4>
+      <P5>
+        <X_UM>1.626316327440774</X_UM>
+        <Y_UM>-2.6234293577249665e-05</Y_UM>
+        <X_PX>399.04511017999516</X_PX>
+        <Y_PX>-0.0064370420405861495</Y_PX>
+      </P5>
+      <P6>
+        <X_UM>0.5951424393289282</X_UM>
+        <Y_UM>-0.0032880314616817825</Y_UM>
+        <X_PX>146.02859005204937</X_PX>
+        <Y_PX>-0.806775935753421</Y_PX>
+      </P6>
+      <P7>
+        <X_UM>1.255424629610164</X_UM>
+        <Y_UM>-0.0015215890274803974</Y_UM>
+        <X_PX>308.0403554908733</X_PX>
+        <Y_PX>-0.37334843835397624</Y_PX>
+      </P7>
+    </CoordinateSolidali>
+    <Annotazioni>
+      <PolimeroSuParete>N</PolimeroSuParete>
+      <RideposizioneFondo>N</RideposizioneFondo>
+      <Note>n</Note>
     </Annotazioni>
   </Misura>
 </RiepilogoMisure>
