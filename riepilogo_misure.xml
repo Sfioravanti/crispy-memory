@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<RiepilogoMisure data_aggiornamento="2026-04-20 11:18:16">
+<RiepilogoMisure data_aggiornamento="2026-04-20 11:46:37">
   <Misura filename="acd_T51_5_3um_20K_01.tif" id_misura="1">
     <filename>acd_T51_5_3um_20K_01.tif</filename>
     <DataMisurazione>2026-04-16 10:50:53</DataMisurazione>
@@ -2433,6 +2433,165 @@
       <PareteDXpareteSX>Lato Ignoto.</PareteDXpareteSX>
       <RegressioneFondo>2</RegressioneFondo>
       <RideposizioneFondo>NO</RideposizioneFondo>
+    </Annotazioni>
+  </Misura>
+  <Misura filename="acd_T51_A1_3um_60K_01.tif" id_misura="13">
+    <filename>acd_T51_A1_3um_60K_01.tif</filename>
+    <DataMisurazione>2026-04-20 11:46:37</DataMisurazione>
+    <scale_factor>0.00135851</scale_factor>
+    <tilt_angle>-1.48353</tilt_angle>
+    <MisurazioniGeometriche>
+      <Gradino_um>0.77842623</Gradino_um>
+      <Coefficiente_Parabola_SX>0.02</Coefficiente_Parabola_SX>
+      <Coefficiente_Parabola_DX>0.02</Coefficiente_Parabola_DX>
+      <Limite_X_Left_PX>285</Limite_X_Left_PX>
+      <Limite_X_Right_PX>2416</Limite_X_Right_PX>
+      <Angolo_SX_gradi_Misurato>None</Angolo_SX_gradi_Misurato>
+      <Angolo_DX_gradi_Misurato>None</Angolo_DX_gradi_Misurato>
+      <Angolo_SX_gradi_Corretto>None</Angolo_SX_gradi_Corretto>
+      <Angolo_DX_gradi_Corretto>None</Angolo_DX_gradi_Corretto>
+      <FacetingSX_micron_Misurato>None</FacetingSX_micron_Misurato>
+      <FacetingDX_micron_Misurato>None</FacetingDX_micron_Misurato>
+      <FacetingSX_micron_Corretto>None</FacetingSX_micron_Corretto>
+      <FacetingDX_micron_Corretto>None</FacetingDX_micron_Corretto>
+      <LarghezzaTrincea_micron_Misurata>None</LarghezzaTrincea_micron_Misurata>
+      <LarghezzaTrincea_micron_Corretta>None</LarghezzaTrincea_micron_Corretta>
+      <phi_rad>None</phi_rad>
+      <phi_deg>None</phi_deg>
+      <Fattore_Correzione_phi>None</Fattore_Correzione_phi>
+      <GradinoPX>573</GradinoPX>
+      <GradinoSTD>8.335977464468732</GradinoSTD>
+      <Equazione_Modello>Modello Scavo C1 y(x):
+  Parete Sx (x &lt; 285.0): y = 0.020000*(x - 285.0)^2 + 573.0
+  Fondo Piatto (285.0 &lt;= x &lt;= 2416.0): y = 573.0
+  Parete Dx (x &gt; 2416.0): y = 0.020000*(x - 2416.0)^2 + 573.0</Equazione_Modello>
+    </MisurazioniGeometriche>
+    <CoordinateSolidali>
+      <P3>
+        <X_UM>0.429670350167626</X_UM>
+        <Y_UM>0.7582145718633481</Y_UM>
+        <X_PX>316.2805943037784</X_PX>
+        <Y_PX>558.1221867070158</Y_PX>
+      </P3>
+      <P4>
+        <X_UM>0.4731389958863138</X_UM>
+        <Y_UM>0.7576491871940505</Y_UM>
+        <X_PX>348.2778896631705</X_PX>
+        <Y_PX>557.7060067235799</Y_PX>
+      </P4>
+      <P5>
+        <X_UM>0.5083689587894509</X_UM>
+        <Y_UM>0.7503955588799948</Y_UM>
+        <X_PX>374.2106858171459</X_PX>
+        <Y_PX>552.3666067088168</Y_PX>
+      </P5>
+      <P6>
+        <X_UM>0.6279607215618203</X_UM>
+        <Y_UM>0.7529173030015776</Y_UM>
+        <X_PX>462.24225185079257</X_PX>
+        <Y_PX>554.2228640213009</Y_PX>
+      </P6>
+      <P7>
+        <X_UM>0.7268939590750054</X_UM>
+        <Y_UM>0.7339624607220891</Y_UM>
+        <X_PX>535.0670654430261</X_PX>
+        <Y_PX>540.2701936107126</Y_PX>
+      </P7>
+      <P8>
+        <X_UM>1.0894971600470098</X_UM>
+        <Y_UM>0.7224507791173866</Y_UM>
+        <X_PX>801.9794922724233</X_PX>
+        <Y_PX>531.7964380956979</Y_PX>
+      </P8>
+      <P9>
+        <X_UM>1.8352737755069062</X_UM>
+        <Y_UM>0.7141097490388014</Y_UM>
+        <X_PX>1350.9460920471001</X_PX>
+        <Y_PX>525.6566010105199</Y_PX>
+      </P9>
+      <P10>
+        <X_UM>2.5633382665976074</X_UM>
+        <Y_UM>0.7019218545199676</Y_UM>
+        <X_PX>1886.8747867867055</X_PX>
+        <Y_PX>516.68508477668</Y_PX>
+      </P10>
+      <P11>
+        <X_UM>2.75767708889629</X_UM>
+        <Y_UM>0.7061895450492955</Y_UM>
+        <X_PX>2029.9277067495198</X_PX>
+        <Y_PX>519.826534253922</Y_PX>
+      </P11>
+      <P12>
+        <X_UM>2.888030039006375</X_UM>
+        <Y_UM>0.7004168390792523</Y_UM>
+        <X_PX>2125.8805890323774</X_PX>
+        <Y_PX>515.5772420366816</Y_PX>
+      </P12>
+      <P13>
+        <X_UM>2.9682283415961837</X_UM>
+        <Y_UM>0.7034509630573857</Y_UM>
+        <X_PX>2184.914606146575</X_PX>
+        <Y_PX>517.8106624591543</Y_PX>
+      </P13>
+      <P14>
+        <X_UM>3.0795814215530024</X_UM>
+        <Y_UM>0.6992844635342105</Y_UM>
+        <X_PX>2266.881672974805</X_PX>
+        <Y_PX>514.7436997403114</Y_PX>
+      </P14>
+      <P15>
+        <X_UM>3.140744529292226</X_UM>
+        <Y_UM>0.7012070926511114</Y_UM>
+        <X_PX>2311.9038721041625</X_PX>
+        <Y_PX>516.1589481498931</Y_PX>
+      </P15>
+      <P16>
+        <X_UM>3.2196550860979625</X_UM>
+        <Y_UM>0.7096942875163614</Y_UM>
+        <X_PX>2369.9899787988033</X_PX>
+        <Y_PX>522.4063772194253</Y_PX>
+      </P16>
+      <P17>
+        <X_UM>3.2780307540851306</X_UM>
+        <Y_UM>0.7062168505588924</Y_UM>
+        <X_PX>2412.9603419077744</X_PX>
+        <Y_PX>519.8466338553948</Y_PX>
+      </P17>
+      <P18>
+        <X_UM>3.31080886186074</X_UM>
+        <Y_UM>0.719381318597422</Y_UM>
+        <X_PX>2437.08832607838</X_PX>
+        <Y_PX>529.5370064242604</Y_PX>
+      </P18>
+      <P19>
+        <X_UM>3.3326138341147216</X_UM>
+        <Y_UM>0.7245340288789742</Y_UM>
+        <X_PX>2453.1389788185006</X_PX>
+        <Y_PX>533.3299194551194</Y_PX>
+      </P19>
+      <P20>
+        <X_UM>3.3545247804606584</X_UM>
+        <Y_UM>0.7378398430848282</Y_UM>
+        <X_PX>2469.267639149258</X_PX>
+        <Y_PX>543.1243370198439</Y_PX>
+      </P20>
+      <P21>
+        <X_UM>0.40483598000000004</X_UM>
+        <Y_UM>0.77842623</Y_UM>
+        <X_PX>298.0</X_PX>
+        <Y_PX>573.0</Y_PX>
+      </P21>
+      <P22>
+        <X_UM>3.33785907</X_UM>
+        <Y_UM>0.77842623</Y_UM>
+        <X_PX>2457.0</X_PX>
+        <Y_PX>573.0</Y_PX>
+      </P22>
+    </CoordinateSolidali>
+    <Annotazioni>
+      <PareteDXpareteSX>dc</PareteDXpareteSX>
+      <RegressioneFondo>DC</RegressioneFondo>
+      <RideposizioneFondo>DC</RideposizioneFondo>
     </Annotazioni>
   </Misura>
 </RiepilogoMisure>
