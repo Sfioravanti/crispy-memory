@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<RiepilogoMisure data_aggiornamento="2026-05-12 11:47:08">
+<RiepilogoMisure data_aggiornamento="2026-05-12 11:49:35">
   <Misura filename="T51_A5_3um_standard.tif" id_misura="1">
     <filename>T51_A5_3um_standard.tif</filename>
     <DataMisurazione>2026-05-10 21:34:36</DataMisurazione>
@@ -2494,6 +2494,190 @@
         <Y_UM>None</Y_UM>
         <X_PX>None</X_PX>
         <Y_PX>None</Y_PX>
+      </P28>
+    </CoordinateSolidali>
+    <Annotazioni>
+      <PareteDXpareteSX>n</PareteDXpareteSX>
+      <RegressioneFondo>3</RegressioneFondo>
+      <RideposizioneFondo>N</RideposizioneFondo>
+    </Annotazioni>
+  </Misura>
+  <Misura filename="acd_T51_A2_1.5um_40K_01.tif" id_misura="13">
+    <filename>acd_T51_A2_1.5um_40K_01.tif</filename>
+    <DataMisurazione>2026-05-12 11:49:35</DataMisurazione>
+    <scale_factor>0.00203776</scale_factor>
+    <tilt_angle>-1.48353</tilt_angle>
+    <MisurazioniGeometriche>
+      <Angolo_SX_gradi_Misurato>85.03721851845242</Angolo_SX_gradi_Misurato>
+      <Angolo_DX_gradi_Misurato>86.98975079158241</Angolo_DX_gradi_Misurato>
+      <Angolo_SX_gradi_Corretto>85.03721851845242</Angolo_SX_gradi_Corretto>
+      <Angolo_DX_gradi_Corretto>86.98975079158241</Angolo_DX_gradi_Corretto>
+      <FacetingSX_micron_Misurato>0.014383563972707188</FacetingSX_micron_Misurato>
+      <FacetingDX_micron_Misurato>0.01604195782837816</FacetingDX_micron_Misurato>
+      <FacetingSX_micron_Corretto>0.014383563972707188</FacetingSX_micron_Corretto>
+      <FacetingDX_micron_Corretto>0.01604195782837816</FacetingDX_micron_Corretto>
+      <LarghezzaTrincea_micron_Misurata>1.5366173476058513</LarghezzaTrincea_micron_Misurata>
+      <LarghezzaTrincea_micron_Corretta>1.5366173476058513</LarghezzaTrincea_micron_Corretta>
+      <Gradino_um>0.7906508800000001</Gradino_um>
+      <Coefficiente_Parabola_SX>0.00481</Coefficiente_Parabola_SX>
+      <Coefficiente_Parabola_DX>0.00128</Coefficiente_Parabola_DX>
+      <Limite_X_Left_PX>1138</Limite_X_Left_PX>
+      <Limite_X_Right_PX>1636</Limite_X_Right_PX>
+      <phi_deg>0.0</phi_deg>
+      <Fattore_Correzione_phi>1.0</Fattore_Correzione_phi>
+      <phi_rad>None</phi_rad>
+      <LarghezzaTrinceaPX>754.0717982519293</LarghezzaTrinceaPX>
+      <GradinoPX>388</GradinoPX>
+      <GradinoSTD>0.8894762700885002</GradinoSTD>
+      <Equazione_Modello>Modello Scavo C1 y(x):
+  Parete Sx (x &lt; 1138.0): y = 0.004810*(x - 1138.0)^2 + 388.0
+  Fondo Piatto (1138.0 &lt;= x &lt;= 1636.0): y = 388.0
+  Parete Dx (x &gt; 1636.0): y = 0.001280*(x - 1636.0)^2 + 388.0</Equazione_Modello>
+    </MisurazioniGeometriche>
+    <CoordinateSolidali>
+      <P3>
+        <X_UM>2.2280114934284985</X_UM>
+        <Y_UM>0.7991483726065152</Y_UM>
+        <X_PX>1093.3630522870694</X_PX>
+        <Y_PX>392.1700163937437</Y_PX>
+      </P3>
+      <P4>
+        <X_UM>2.248343194994343</X_UM>
+        <Y_UM>0.7948482853656405</Y_UM>
+        <X_PX>1103.3405283224438</X_PX>
+        <Y_PX>390.0598134057202</Y_PX>
+      </P4>
+      <P5>
+        <X_UM>2.280923059063537</X_UM>
+        <Y_UM>0.7924524515391717</Y_UM>
+        <X_PX>1119.328605460671</X_PX>
+        <Y_PX>388.88409407347854</Y_PX>
+      </P5>
+      <P6>
+        <X_UM>2.3237134480646016</X_UM>
+        <Y_UM>0.7919832156912932</Y_UM>
+        <X_PX>1140.3273437817022</X_PX>
+        <Y_PX>388.65382365503945</Y_PX>
+      </P6>
+      <P7>
+        <X_UM>2.4744762912795935</X_UM>
+        <Y_UM>0.7882913971421127</Y_UM>
+        <X_PX>1214.3119362827779</X_PX>
+        <Y_PX>386.84211935758515</Y_PX>
+      </P7>
+      <P8>
+        <X_UM>2.6354496594264556</X_UM>
+        <Y_UM>0.7865261765715227</Y_UM>
+        <X_PX>1293.3071899666572</X_PX>
+        <Y_PX>385.9758639739335</Y_PX>
+      </P8>
+      <P9>
+        <X_UM>2.8025806144367045</X_UM>
+        <Y_UM>0.7887705639074064</Y_UM>
+        <X_PX>1375.3241865758011</X_PX>
+        <Y_PX>387.07726322403346</Y_PX>
+      </P9>
+      <P10>
+        <X_UM>3.0125242955224913</X_UM>
+        <Y_UM>0.7925840361949259</Y_UM>
+        <X_PX>1478.3508830885341</X_PX>
+        <Y_PX>388.9486672596017</Y_PX>
+      </P10>
+      <P11>
+        <X_UM>3.173542337818302</X_UM>
+        <Y_UM>0.7948954572233636</Y_UM>
+        <X_PX>1557.3680599375305</X_PX>
+        <Y_PX>390.08296228376435</Y_PX>
+      </P11>
+      <P12>
+        <X_UM>3.2673406773297713</X_UM>
+        <Y_UM>0.7999825696694101</Y_UM>
+        <X_PX>1603.3981810074647</X_PX>
+        <Y_PX>392.5793860265243</Y_PX>
+      </P12>
+      <P13>
+        <X_UM>3.4140952566252274</X_UM>
+        <Y_UM>0.8024504026471407</Y_UM>
+        <X_PX>1675.4157784161173</X_PX>
+        <Y_PX>393.79043785683336</Y_PX>
+      </P13>
+      <P14>
+        <X_UM>3.467096170558162</X_UM>
+        <Y_UM>0.8039077647778529</Y_UM>
+        <X_PX>1701.4251779199524</X_PX>
+        <Y_PX>394.50561635219697</Y_PX>
+      </P14>
+      <P15>
+        <X_UM>3.5344052216404003</X_UM>
+        <Y_UM>0.8092853565583003</Y_UM>
+        <X_PX>1734.456080029248</X_PX>
+        <Y_PX>397.1445884492287</Y_PX>
+      </P15>
+      <P16>
+        <X_UM>3.5630438330134817</X_UM>
+        <Y_UM>0.8191641366572844</Y_UM>
+        <X_PX>1748.5100468227276</X_PX>
+        <Y_PX>401.992450856472</Y_PX>
+      </P16>
+      <P17>
+        <X_UM>3.5834872199516967</X_UM>
+        <Y_UM>0.8250556534139794</Y_UM>
+        <X_PX>1758.5423307708938</X_PX>
+        <Y_PX>404.8836238879845</Y_PX>
+      </P17>
+      <P18>
+        <X_UM>3.60397528103886</X_UM>
+        <Y_UM>0.8350238117697023</Y_UM>
+        <X_PX>1768.5965378841768</X_PX>
+        <Y_PX>409.7753473273115</Y_PX>
+      </P18>
+      <P19>
+        <X_UM>3.6182834181881636</X_UM>
+        <Y_UM>0.8389440414194375</Y_UM>
+        <X_PX>1775.6180404896375</X_PX>
+        <Y_PX>411.6991409289796</Y_PX>
+      </P19>
+      <P20>
+        <X_UM>3.6285162801945083</X_UM>
+        <Y_UM>0.8429089601975419</Y_UM>
+        <X_PX>1780.6396632549997</X_PX>
+        <Y_PX>413.64486504668946</Y_PX>
+      </P20>
+      <P21>
+        <X_UM>2.22930944</X_UM>
+        <Y_UM>0.7906508800000001</Y_UM>
+        <X_PX>1094.0</X_PX>
+        <Y_PX>388.0</Y_PX>
+      </P21>
+      <P22>
+        <X_UM>3.65166592</X_UM>
+        <Y_UM>0.7906508800000001</Y_UM>
+        <X_PX>1792.0</X_PX>
+        <Y_PX>388.0</Y_PX>
+      </P22>
+      <P25>
+        <X_UM>2.1499540555718495</X_UM>
+        <Y_UM>0.0</Y_UM>
+        <X_PX>1055.0575414042132</X_PX>
+        <Y_PX>0.0</Y_PX>
+      </P25>
+      <P26>
+        <X_UM>3.686571403177701</X_UM>
+        <Y_UM>0.0</Y_UM>
+        <X_PX>1809.1293396561425</X_PX>
+        <Y_PX>0.0</Y_PX>
+      </P26>
+      <P27>
+        <X_UM>2.1355704915991423</X_UM>
+        <Y_UM>0.0</Y_UM>
+        <X_PX>1047.999024222255</X_PX>
+        <Y_PX>0.0</Y_PX>
+      </P27>
+      <P28>
+        <X_UM>3.702613361006079</X_UM>
+        <Y_UM>0.0</Y_UM>
+        <X_PX>1817.0016886218589</X_PX>
+        <Y_PX>0.0</Y_PX>
       </P28>
     </CoordinateSolidali>
     <Annotazioni>
